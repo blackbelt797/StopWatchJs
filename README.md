@@ -1,0 +1,1 @@
+This Project was for me to learn some basics of programming with javaScript
